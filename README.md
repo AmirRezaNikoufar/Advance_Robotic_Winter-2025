@@ -1,4 +1,4 @@
-## **Advance Robotics**  
+## **Advance Robotics Course**  
 ### **Amirkabir University of Technology**  
 Welcome to the official repository for the Advanced Robotics course at Amirkabir University of Technology, taught by **Dr. Hamed Ghafari Rad**. This repository provides access to lecture notes, coding examples, assignments, and projects utilized throughout the course.
 

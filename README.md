@@ -22,9 +22,11 @@ Restrictions: Reproduction, modification, or distribution of any course material
 Commercial Use: Any form of commercial use, redistribution, or publication without authorization is strictly forbidden.
 For permission requests or inquiries, please contact the teaching assistants:
 
+Mohammad Mirzae
+📧 **mohammadmirzae@gmail.com**
+
 AmirReza Nikoufar
 📧 **amirrezanikoufar1999@gmail.com**  
 
-Mohammad Mirzae
-📧 **mohammadmirzae@gmail.com**
+
   
